@@ -1,0 +1,173 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/EEG_weaver_Reporter_2.5.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/images/head_icon.ico"
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/ATTENTION_ATTENTION.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/auto_py_exe.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/EEG_weaver_multiple_sqlite_dez_22.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/EEG_weaver_Reporter_2.5.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/EEG_weaver_Reporter_funcs_dez_22.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/export_to_docx.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/gpl-3.0.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/header.ico;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/header_pdf.ico;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/hope.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/inno 14_2_2023.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/pages_to_connect_pages.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/reporter_filepath.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/test01.db;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/thanks.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/use_file_in_external_folder.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/html;html/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/images;images/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/images_demo;images_demo/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/json_objects;json_objects/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/msword;msword/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/pdfs_exemplos;pdfs_exemplos/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "G:/PycharmProjects/EEG_WEAVER/reporter_compilation/sv_ttk;sv_ttk/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Program Files/Python397/Lib/site-packages/customtkinter;customtkinter/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}

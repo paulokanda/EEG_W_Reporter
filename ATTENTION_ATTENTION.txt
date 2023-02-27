@@ -1,0 +1,26 @@
+reporter_compilation é a pasta principal, base, onde estão
+os arquivos que geral o EEG_weaver_reporter
+
+a compilação é feita com o pyinstaller cujas instruções estão no
+final do arquivo EEG_weaver_Reporter_2.5.py
+o reporter_compilation e o pyinstaller rodam dentro do pycharm
+o pyinstaller deve ser  rodado  no terminal
+e gera a pasta "output"
+
+command in terminal:
+python -m auto_py_to_exe
+
+--------------------
+o programa independente roda dentro da pasta output mas não tem instalador
+o instalador é criado com o innosetup (programa gratuito)
+
+no inno tem um macete:
+dentro dele as subpastas são importadas assim:
+
+Source: "C:\0 output\win32com\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+r o programa não roda
+
+para rodar, depois de "{app}" colocamos o nome da  pasta \win32com\
+Source: "C:\0 output\win32com\*"; DestDir: "{app}\win32com\"; Flags: ignoreversion recursesubdirs createallsubdirs
+
+isto vale para todas as subpastas
